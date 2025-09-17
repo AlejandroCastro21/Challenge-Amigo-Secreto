@@ -14,7 +14,19 @@ Es una aplicación simple donde puedes agregar nombres de amigos y la computador
 - Te dice quién salió elegido
 - Si no hay nombres o el campo está vacío te avisa
 
-#Tecnologías que usé
+# Capturas de como funciona
+
+### Pantalla inicial
+![Pantalla inicial](screenshots/pantalla-inicial.png)
+
+### Con nombres agregados
+![Agregando nombres](screenshots/agregando-nombres.png)  
+
+### Resultado del sorteo
+![Resultado sorteo](screenshots/resultado-sorteo.png)
+
+
+# Tecnologías que usé
 
 - HTML para la estructura básica (proporcionada por ustedes mismos)
 - CSS para que se vea bien (usé las fuentes que nos dieron)
@@ -48,8 +60,9 @@ También me costó un poco el tema del sorteo aleatorio, pero Math.floor y Math.
 - style.css - todos los estilos
 - app.js - el código JavaScript
 - assets/ - las imágenes que nos dieron
+- screenshots/ - capturas para el readme
 
 Hecho por John Alejandro Castro Leites para entregar el challenge para pasar a la siguiente fase de Oracle Next Education
 
 
-Mi primer proyecto real de programación Seguro hay cosas que se pueden mejorar pero no me disgusto el resultado.
+Mi primer proyecto real de programación! Seguro hay cosas que se pueden mejorar pero estoy contento con el resultado.
